@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/harshdeep-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshdeep-codes" height="30" width="40" /></a>
-<a href="https://dev.to/harshdeep-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshdeep-codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshdeep singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdeep singh" height="30" width="40" /></a>
 <a href="https://instagram.com/harshdeep.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshdeep.codes" height="30" width="40" /></a>
+<a href="https://codepen.io/harshdeep-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harshdeep-codes" height="30" width="40" /></a>
+<a href="https://dev.to/harshdeep-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshdeep-codes" height="30" width="40" /></a>
 <a href="https://www.behance.net/harshdeep singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harshdeep singh" height="30" width="40" /></a>
 <a href="https://medium.com/@harshdeep-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshdeep-codes" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshdeep_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshdeep_29" height="30" width="40" /></a>
