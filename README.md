@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://github.com/Harshdeep-codes/harshdeep2909)
 <h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate UI/UX Designer & Frontend Web developer from Indi</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 - 🌱 I’m currently **Computer Science Student Learning Web Designing and Development and Also prepairing DSA in C++**
