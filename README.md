@@ -42,8 +42,5 @@
   </td> 
  </tr>
             
-<tr>
-<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshdeep-codes&show_icons=true&locale=en" alt="harshdeep-codes" /></p>
-</td> 
-</tr>
+
 </table>
